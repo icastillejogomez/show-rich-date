@@ -1,0 +1,22 @@
+{
+  "name": "show-rich-date",
+  "version": "1.0.0",
+  "description": "This module use moment module to show a rich date",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icastillejogomez/show-rich-date.git"
+  },
+  "author": "Ignacio F. Castillejo Gómez <i.castillejogomez@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/icastillejogomez/show-rich-date/issues"
+  },
+  "homepage": "https://github.com/icastillejogomez/show-rich-date#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
